@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodePushTest</string>
+    <string name="CodePushDeploymentKey"></string>
+    <string name="CodePushServerUrl">https://codepush.appsonair.com</string>
+</resources>
