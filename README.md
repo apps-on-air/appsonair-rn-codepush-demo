@@ -55,6 +55,10 @@ ios/<YourAppName>/Info.plist
 
 ---
 
+🧪 Note: A test APK is included in the repository — you can install it to verify that CodePush is working correctly.
+
+---
+
 ## 🚀 Running and Syncing CodePush
 
 The `App.tsx` file (in this repo) automatically:
